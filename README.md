@@ -1,22 +1,24 @@
 # Bitcoin Widgets for iOS
 
-[Tutorial for Blocktime Simple](https://github.com/cercatrova21/iOS_widgets/blob/main/Blocktime_simple.md)
+[Tutorial for Blocktime Simple](Blocktime_simple.md)
 
-[Tutorial for Mempool Fees Simple](https://github.com/cercatrova21/iOS_widgets/blob/main/Mempool_simple.md)
+[Tutorial for Mempool Fees Simple](Mempool_simple.md)
 
-[Tutorial for MoscowTime Simple](https://github.com/cercatrova21/iOS_widgets/blob/main/MoscowTime_simple.md)
+[Tutorial for MoscowTime Simple](MoscowTime_simple.md)
 
-[Tutorial for Mempool Fees](https://github.com/cercatrova21/iOS_widgets/blob/main/Mempool.md)
+[Tutorial for Mempool Fees](Mempool.md)
 
-[Tutorial for MoscowTime](https://github.com/cercatrova21/iOS_widgets/blob/main/MoscowTime.md)
+[Tutorial for MoscowTime](MoscowTime.md)
 
-[Tutorial for Supply](https://github.com/cercatrova21/iOS_widgets/blob/main/Supply.md)
+[Tutorial for Supply](Supply.md)
 
-[Tutorial for Difficulty Adjustment](https://github.com/cercatrova21/iOS_widgets/blob/main/Difficulty.md)
+[Tutorial for Difficulty Adjustment](Difficulty.md)
 
-[Tutorial for Lightning Network](https://github.com/cercatrova21/iOS_widgets/blob/main/LN.md)
+[Tutorial for Lightning Network](LN.md)
 
-[Tutorial for Genesis](https://github.com/cercatrova21/iOS_widgets/blob/main/Genesis.md)
+[Tutorial for Genesis](Genesis.md)
+
+[Tutorial for Ocean Mining](Ocean.md)
 
 The idea and script was created by [Janna](https://twitter.com/ux3257_) and [SN](https://twitter.com/__B__T__C__). I'm only the tutorial dude
 
